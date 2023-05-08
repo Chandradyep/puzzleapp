@@ -1,0 +1,124 @@
+{
+    "answers": [
+        {
+            "name": "Superman",
+            "hints" : 
+            { 
+                "name1" : "krypton",
+                "hint1" : "A Noble gas on the periodic table.",
+                "name2" : "Cape",
+                "hint2" : "A Noble gas on the periodic table.",
+                "name3" : "hope",
+                "hint3" : "A feeling of expectation and desire for a particular thing to happen."
+            }
+        },
+        {
+            "name": "Batman",
+            "hints" : 
+            { 
+                "name1" : "Rich",
+                "hint1" : "A person that has a lot of money.",
+                "name2" : "Taekwondo",
+                "hint2" : "A form of martial arts that originated in Korea.",
+                "name3" : "Black",
+                "hint3" : "A color."
+            }
+        },
+        {
+            "name": "Spiderman",
+            "hints" : 
+            { 
+                "name1" : "teenager",
+                "hint1" : "A person who is not a child or an adult.",
+                "name2" : "neighborhood",
+                "hint2" : " The place around your home.",
+                "name3" : "Venom",
+                "hint3" : "Synonym for Poison"
+            }
+        },
+        {
+            "name": "Ironman",
+            "hints" : 
+            { 
+                "name1" : "Genius",
+                "hint1" : " An intelligent person.",
+                "name2" : "Playboy",
+                "hint2" : "A guy who has multiple girlfriends.",
+                "name3" : "krypton",
+                "hint3" : "A person who donates a lot of money to charity."
+            }
+        },
+        {
+            "name": "Hulk",
+            "hints" : 
+            { 
+                "name1" : "green",
+                "hint1" : " A color",
+                "name2" : "Muscle",
+                "hint2" : "A body part that helps in the movement of the body.",
+                "name3" : "Smash",
+                "hint3" : "Synonym for Shatter."
+            }
+        },
+        {
+            "name": "Thor",
+            "hints" : 
+            { 
+                "name1" : "lightning",
+                "hint1" : "Discharge of electricity in air.",
+                "name2" : "God",
+                "hint2" : "A being that transcends life.",
+                "name3" : "Hammer",
+                "hint3" : "A very commonly used carpentry tool."
+            }
+        },
+        {
+            "name": "Joker",
+            "hints" : 
+            { 
+                "name1" : "manipulation",
+                "hint1" : "Controlling other people to do one's own bidding.",
+                "name2" : "psychopath",
+                "hint2" : "People who enjoy harming others.",
+                "name3" : "Laugh",
+                "hint3" : "Joy is expressed through this action."
+            }
+        },
+        {
+            "name": "Thanos",
+            "hints" : 
+            { 
+                "name1" : "titan",
+                "hint1" : "One of Saturn's moons.",
+                "name2" : "Purple",
+                "hint2" : " A color.",
+                "name3" : "Gauntlet",
+                "hint3" : "An armoured glove is called?"
+            }
+        },
+        {
+            "name": "Deadpool",
+            "hints" : 
+            { 
+                "name1" : "katana",
+                "hint1" : "Japanese version of a sword.",
+                "name2" : "Immortal",
+                "hint2" : "A living being that does not age is called?",
+                "name3" : "Regeneration",
+                "hint3" : "Extreme healing to the point of re-growing body parts is called?"
+            }
+        },
+        {
+            "name": "Ultron",
+            "hints" : 
+            { 
+                "name1" : "Robot",
+                "hint1" : "An automated machine is called?",
+                "name2" : "AI",
+                "hint2" : "Branch of computers that deals with Automation.",
+                "name3" : "Titanium",
+                "hint3" : "A silver color metal that appears only as oxides in nature."
+            }
+        }
+    ]
+}
