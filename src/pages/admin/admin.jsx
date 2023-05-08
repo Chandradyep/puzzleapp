@@ -6,7 +6,7 @@ function Admin() {
     const [data, setData] = useState()
 
     async function fetchData() {
-        const res = await fetch("http://localhost:4000/users/getallusersscore")
+        const res = await fetch("/users/getallusersscore")
         const data = await res.json()
 
         setData(data.payload.sort((a,b)=>{
